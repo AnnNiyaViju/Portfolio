@@ -710,6 +710,13 @@ body.offcanvas .colorlib-nav-toggle {
   width: 100%;
   display: block;
 }
+.colorlib-education,
+.colorlib-blog,
+.colorlib-work,
+.colorlib-services,
+.colorlib-contact {
+  margin-left: 20px;
+}
 
 @media screen and (max-width: 768px) {
 
