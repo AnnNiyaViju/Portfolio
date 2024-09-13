@@ -1,4 +1,4 @@
-@font-face {
+<div><br class="Apple-interchange-newline">@font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
   src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
@@ -2208,4 +2208,4 @@ body.offcanvas .colorlib-nav-toggle {
 
 .js .animate-box {
   opacity: 0;
-}
+}</div>
